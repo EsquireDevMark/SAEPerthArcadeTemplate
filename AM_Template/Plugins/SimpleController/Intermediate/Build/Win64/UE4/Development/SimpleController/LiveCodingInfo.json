@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleController.cpp.obj": [
+			"SimpleController.cpp.obj",
+			"SimpleControllerBPLibrary.cpp.obj",
+			"SimpleControllerCustomEvents.cpp.obj"
+		],
+		"Module.SimpleController.gen.cpp.obj": [
+			"SimpleController.gen.cpp.obj",
+			"SimpleController.init.gen.cpp.obj",
+			"SimpleControllerBPLibrary.gen.cpp.obj",
+			"SimpleControllerCustomEvents.gen.cpp.obj"
+		]
+	}
+}
