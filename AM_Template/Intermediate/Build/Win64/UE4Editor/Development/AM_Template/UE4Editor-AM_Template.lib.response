@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-AM_Template.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\AM_Template.cpp.obj"
-"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Dummy.cpp.obj"
-"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Default.rc2.res"
-/OUT:"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\UE4Editor-AM_Template.lib"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\AM_Template.cpp.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Dummy.cpp.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Default.rc2.res"
+/OUT:"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\UE4Editor-AM_Template.lib"
 /INCLUDE:IMPLEMENT_MODULE_AM_Template

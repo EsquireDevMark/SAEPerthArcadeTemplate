@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\markt\Desktop\AM_Template\Source
+/I C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -255,17 +255,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\markt\Desktop\AM_Template\Source\AM_Template\Dummy.cpp"
-/FI"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Definitions.AM_Template.h"
-/Fo"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Dummy.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Source\AM_Template\Dummy.cpp"
+/FI"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Definitions.AM_Template.h"
+/Fo"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Dummy.cpp.obj"
 /TP
 /GR-
 /W4

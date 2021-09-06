@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-SimpleController.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.cpp.obj"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.gen.cpp.obj"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Default.rc2.res"
-/OUT:"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\UE4Editor-SimpleController.lib"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.cpp.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.gen.cpp.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Default.rc2.res"
+/OUT:"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\UE4Editor-SimpleController.lib"
 /INCLUDE:IMPLEMENT_MODULE_SimpleController

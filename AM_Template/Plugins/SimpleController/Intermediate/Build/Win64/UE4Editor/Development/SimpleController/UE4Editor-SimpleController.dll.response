@@ -16,13 +16,13 @@
 /INCREMENTAL:NO
 /ignore:4199
 /ignore:4099
-/DELAYLOAD:"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Source\ThirdParty\64\SDL2.dll"
+/DELAYLOAD:"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Source\ThirdParty\64\SDL2.dll"
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
 /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -34,11 +34,11 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.cpp.obj"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.gen.cpp.obj"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Default.rc2.res"
-"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Source\ThirdParty\64\SDL2.lib"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Intermediate\Build\Win64\AM_TemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.cpp.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Module.SimpleController.gen.cpp.obj"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\Default.rc2.res"
+"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Source\ThirdParty\64\SDL2.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
@@ -68,8 +68,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Binaries\Win64\UE4Editor-SimpleController.dll"
-/IMPLIB:"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\UE4Editor-SimpleController.suppressed.lib"
-/PDB:"C:\Users\markt\Desktop\AM_Template\Plugins\SimpleController\Binaries\Win64\UE4Editor-SimpleController.pdb"
+/OUT:"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Binaries\Win64\UE4Editor-SimpleController.dll"
+/IMPLIB:"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Intermediate\Build\Win64\UE4Editor\Development\SimpleController\UE4Editor-SimpleController.suppressed.lib"
+/PDB:"C:\Users\mpthompson\Desktop\SAEPerthArcadeTemplate\AM_Template\Plugins\SimpleController\Binaries\Win64\UE4Editor-SimpleController.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_SimpleController
