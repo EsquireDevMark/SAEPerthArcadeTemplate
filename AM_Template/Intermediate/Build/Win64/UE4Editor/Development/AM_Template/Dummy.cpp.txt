@@ -1,2 +1,0 @@
-C:\Users\markt\Desktop\AM_Template\Intermediate\Build\Win64\UE4Editor\Development\AM_Template\Definitions.AM_Template.h
-C:\Users\markt\Desktop\AM_Template\Source\AM_Template\Dummy.h
