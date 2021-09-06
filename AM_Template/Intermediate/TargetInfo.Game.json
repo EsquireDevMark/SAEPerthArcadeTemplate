@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AM_Template",
+			"Path": "C:\\Users\\markt\\Desktop\\AM_Template\\Source\\AM_Template.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AM_TemplateEditor",
+			"Path": "C:\\Users\\markt\\Desktop\\AM_Template\\Source\\AM_TemplateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

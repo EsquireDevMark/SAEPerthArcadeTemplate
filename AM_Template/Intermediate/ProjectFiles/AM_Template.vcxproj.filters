@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AM_Template.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A5439993-7420-45E3-8286-086943AD74C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AM_Template.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AM_TemplateEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D0A5E451-DEE6-4F4F-B3C8-E1A307AB5647}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{5BB21187-073F-4F55-A6F3-8535B227C7AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SimpleController">
+      <UniqueIdentifier>{7AD0E9DB-C520-4B37-A690-7431E9B3627C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SimpleController\Source">
+      <UniqueIdentifier>{3EC32BB1-2FB6-44BD-A7F9-0A697E5D99B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SimpleController\Source\SimpleController">
+      <UniqueIdentifier>{F39220E2-E695-45DB-AA0F-C9378C6FC1DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SimpleController\Source\SimpleController\SimpleController.Build.cs">
+      <Filter>Plugins\SimpleController\Source\SimpleController</Filter>
+    </None>
+    <Filter Include="Plugins\SimpleController\Source\SimpleController\Private">
+      <UniqueIdentifier>{1410C3B2-3261-43DA-830E-65CEA69C68A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SimpleController\Source\SimpleController\Private\SimpleController.cpp">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SimpleController\Source\SimpleController\Private\SimpleControllerBPLibrary.cpp">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SimpleController\Source\SimpleController\Private\SimpleControllerCustomEvents.cpp">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\SimpleController\Source\SimpleController\Public">
+      <UniqueIdentifier>{52485865-2370-4911-B201-FBA078D665C1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SimpleController\Source\SimpleController\Public\ControllerList.h">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SimpleController\Source\SimpleController\Public\SimpleController.h">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SimpleController\Source\SimpleController\Public\SimpleControllerBPLibrary.h">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SimpleController\Source\SimpleController\Public\SimpleControllerCustomEvents.h">
+      <Filter>Plugins\SimpleController\Source\SimpleController\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\SimpleController\SimpleController.uplugin">
+      <Filter>Plugins\SimpleController</Filter>
+    </None>
+    <Filter Include="Plugins\SimpleController\Config">
+      <UniqueIdentifier>{0396BBB4-3C6B-4966-A57C-7323ACD76FFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SimpleController\Config\FilterPlugin.ini">
+      <Filter>Plugins\SimpleController\Config</Filter>
+    </None>
+    <Filter Include="Plugins\SimpleController\Resources">
+      <UniqueIdentifier>{F394447E-CDC6-44D5-A500-4CFF8B6915CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SimpleController\Resources\Icon128.png">
+      <Filter>Plugins\SimpleController\Resources</Filter>
+    </None>
+    <Filter Include="Source\AM_Template">
+      <UniqueIdentifier>{39A3CC17-D1C7-403E-80D8-35619F005641}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AM_Template\AM_Template.Build.cs">
+      <Filter>Source\AM_Template</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AM_Template\AM_Template.cpp">
+      <Filter>Source\AM_Template</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AM_Template\AM_Template.h">
+      <Filter>Source\AM_Template</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AM_Template\Dummy.cpp">
+      <Filter>Source\AM_Template</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AM_Template\Dummy.h">
+      <Filter>Source\AM_Template</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\mpthompson\\Desktop\\AM_Template\\Source\\AM_Template\\AM_Template.Build.cs",
+		"C:\\Users\\mpthompson\\Desktop\\AM_Template\\Plugins\\SimpleController\\Source\\SimpleController\\SimpleController.Build.cs",
+		"C:\\Users\\mpthompson\\Desktop\\AM_Template\\Source\\AM_Template.Target.cs",
+		"C:\\Users\\mpthompson\\Desktop\\AM_Template\\Source\\AM_TemplateEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
